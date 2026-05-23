@@ -47,17 +47,17 @@
 ### 📊 Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darkknight1213&theme=monokai&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riyaz-ahamed-07&theme=monokai&row=1&column=6" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkknight1213&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaz-ahamed-07&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkknight1213&show_icons=true&locale=en&theme=radical" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyaz-ahamed-07&show_icons=true&locale=en&theme=radical" alt="github-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkknight1213&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaz-ahamed-07&theme=radical" alt="streak-stats" />
 </p>

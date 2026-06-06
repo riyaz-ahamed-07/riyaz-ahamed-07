@@ -58,23 +58,11 @@ AI & Full-Stack Developer • FastAPI • React • MERN • ML Integration • 
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
 
@@ -108,25 +96,8 @@ AI & Full-Stack Developer • FastAPI • React • MERN • ML Integration • 
 
 ## 🚀 Portfolio & Resume
 
-- 🌍 Portfolio: [riyaz-portfolio.vercel.app](https://riyaz-porfolio.vercel.app/)
+- 🌍 Portfolio: [riyaz-portfolio-ai.vercel.app](https://riyaz-portfolio-ai.vercel.app/)
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1xZLv-WP8Sj5juktqvmeLhPa8jL6f-RJ9/view?usp=sharing)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyaz-ahamed-07&theme=tokyonight&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyaz-ahamed-07&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-ahamed-07&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaz-ahamed-07&theme=tokyonight" />
-</p>
 
 ---
 

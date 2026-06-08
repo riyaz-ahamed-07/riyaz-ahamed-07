@@ -18,8 +18,7 @@ AI & Full-Stack Developer • FastAPI • React • MERN • ML Integration • 
 
 - 🚀 Focused on becoming a high-level AI + Full-Stack Engineer
 - 🧠 Grinding **DSA, backend engineering, system design, and scalable architectures**
-- ⚡ Building real-world projects with **FastAPI, MERN, Firebase, AI integrations**
-- 🎯 Goal: Crack top-tier internships + 40LPA+ placements
+- ⚡ Building real-world projects with **FastAPI, MERN, AI integrations**
 - 🤝 Open to collaborating on:
   - AI products
   - Backend-heavy platforms

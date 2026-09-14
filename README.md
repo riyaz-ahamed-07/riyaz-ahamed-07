@@ -46,7 +46,7 @@ Building production software, backend systems, and AI-powered applications.
 ## 🌐 Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/riyaz7
-- 🌍 Portfolio: https://riyaz-portfolio-ai.vercel.app
+- 🌍 Portfolio: https://riyaz-dev.vercel.app
 - 💻 LeetCode: https://leetcode.com/mdhuibkxg0
 - 📄 Resume: [Mohamed_Riyaz_Ahamed-Resume.pdf](https://github.com/user-attachments/files/30243497/Mohamed_Riyaz_Ahamed-Resume.pdf)
 
